@@ -1,0 +1,26 @@
+/*+++CSS-styles+++*/
+
+body{
+    margin: 0;
+}
+
+.gamecard-outer{
+    max-width: 300px;
+    margin-left: 15px;
+    border: 2px solid;
+    padding: 10px 18px;
+}
+
+.game-card-img h3{
+    text-align: center;
+}
+
+hr  {
+    border:2px solid #fb6101;
+}
+/*Card-description*/
+
+.card-link-icon{
+    display: flex;
+    justify-content: space-between;
+}
